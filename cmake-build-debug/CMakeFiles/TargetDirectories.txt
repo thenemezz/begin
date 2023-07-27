@@ -1,0 +1,3 @@
+/Users/thenemez/Desktop/proga/C_pl_begin/cmake-build-debug/CMakeFiles/C_pl_begin.dir
+/Users/thenemez/Desktop/proga/C_pl_begin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thenemez/Desktop/proga/C_pl_begin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
